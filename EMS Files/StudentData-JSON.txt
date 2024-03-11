@@ -1,0 +1,1 @@
+{"<studentAddress>k__BackingField":"1337 Leetcode Lane","<studentGrade>k__BackingField":"C","<studentID>k__BackingField":3,"<studentMarks>k__BackingField":77.1,"<studentName>k__BackingField":"Indy Simonds"}
